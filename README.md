@@ -19,7 +19,7 @@ This script is very easy and contain no specific logic. Its just a simple transl
 
 ..well, that is actually created by another fella, and can be downloaded in his Google Code-project:
 
-[https://code.google.com/p/pwin2lin/]https://code.google.com/p/pwin2lin/)
+[https://code.google.com/p/pwin2lin/](https://code.google.com/p/pwin2lin/)
 
 Please note that this script requires perl.
 
