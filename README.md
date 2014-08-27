@@ -21,7 +21,7 @@ This script is very easy and contain no specific logic. Its just a simple transl
 
 [https://code.google.com/p/pwin2lin/](https://code.google.com/p/pwin2lin/)
 
-Please note that this script requires perl.
+Please note that this script _requires_ perl.
 
 # Acknowledgements
 
