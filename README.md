@@ -27,6 +27,10 @@ bash/shell scripting
 
 Please note that the windows to linux (not mine..) _requires_ perl.
 
+# Notes
+
+There is a bug in the Windows-version when you use "#" in the Title - then the putty session will not be loaded correctly for some strange reason.
+
 # Acknowledgements
 
 * Vegard Aasen :-P
